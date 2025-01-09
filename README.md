@@ -1,2 +1,2 @@
-# Connect-Four-Java
- Implement a two-player Connect Four game with perfect information and no randomness. It must implement `AbstractStrategyGame` (instructions, turn-based moves, game state, end condition, and a clear winner/tie). Both players follow symmetrical rules, placing pieces in columns until four in a row is achieved.
+# Strategy-Games-Java
+Implement two-player Connect Four and Tic-Tac-Toe with perfect information and no randomness. Both games use symmetrical rules, track the game state and end conditions, and determine a clear winner or tie. They conform to `AbstractStrategyGame`, with methods for instructions, game state display, turn handling, and legal move input.
